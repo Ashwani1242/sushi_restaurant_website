@@ -2,6 +2,7 @@
   "name": "site-1",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://github.com/Ashwani1242/sushi_restaurant_website",
   "type": "module",
   "scripts": {
     "start": "vite",
